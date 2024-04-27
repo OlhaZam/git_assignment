@@ -27,7 +27,7 @@ Git is a version control system that operates locally on the developer's machine
 
 f. What does git diff do?
 
-Git diff command shows differences between changes between staged version and the last commit.
+The git diff command shows the differences between changes in a staging version and the latest commit.
 
 
 g. What is the main branch?
@@ -37,4 +37,4 @@ The main branch is a default most stable line of code.
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 
-In a collaborative environement the best practice is to push changes in a feature branch to track, discuss and aprove code/ideas/bugs/issues, and after review and approval merge changes to the main branch.
+In a collaborative environment the best practice is to push changes in a feature branch to track, discuss and aprove code/ideas/bugs/issues, and after review and approval merge changes to the main branch.
