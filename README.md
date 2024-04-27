@@ -8,3 +8,12 @@ A pull request proposes changes to a project's code, allowing for discussion, co
 
 c. How do I open up a pull request?
 Create branch (git branch -c branch_name) -> Make changes and stage them (git add)-> Commit (git commit) -> Push changes (git push) -> Open pull request on GitHub repository's page -> Create pull request
+
+d. Give me a step by step guide on how to add someone to your repository.
+GitHub repository's page -> Settings tab -> Access (Sidebar) -> Collaborators -> Manage access -> Add people button -> Type the username, email address, or full name of the person you want to add -> Select the appropriate user from the suggestions that appear -> Add this person -> Invitation is sent
+
+e. What is the difference between git and GitHub?
+Git is a version control system that operates locally on the developer's machine. GitHub is a web platform that enables to host git repositories remotely. 
+
+f. What does git diff do?
+Git diff command shows differences between changes between staged version and the last commit.
